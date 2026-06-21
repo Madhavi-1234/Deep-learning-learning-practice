@@ -47,5 +47,5 @@ The model is built using Keras and TensorFlow.
 ```python
 model = Sequential()
 
-model.add(Dense(3, activation='relu', input_dim=11))  # Hidden Layer
+model.add(Dense(11, activation='relu', input_dim=11))  # Hidden Layer
 model.add(Dense(1, activation='sigmoid'))             # Output Layer
