@@ -41,3 +41,57 @@ Predict whether a customer will leave the bank or not.
 `Exited`
 
 ---
+
+## 2. Graduate Admissions Prediction using ANN
+**Problem Type:** Regression
+
+### Objective
+Predict the probability of admission based on student profile information.
+
+### Workflow
+- Data preprocessing
+- Feature scaling
+- ANN model creation
+- Training and validation
+- Performance evaluation
+
+### Target Variable
+`Chance of Admit`
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- TensorFlow
+- Keras
+
+---
+
+## 📚 Learning Progress
+
+- [x] Data Preprocessing
+- [x] Feature Encoding
+- [x] Feature Scaling
+- [x] Binary Classification with ANN
+- [x] Regression with ANN
+- [ ] Backpropagation
+- [ ] Gradient Descent
+- [ ] Optimizers
+- [ ] Activation Functions
+- [ ] Dropout
+- [ ] Batch Normalization
+- [ ] Hyperparameter Tuning
+- [ ] CNN
+- [ ] RNN
+- [ ] LSTM
+
+---
+
+## 🎯 Purpose
+
+This repository documents my journey of learning Deep Learning through practical implementations and experiments.
