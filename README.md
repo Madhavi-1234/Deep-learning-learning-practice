@@ -20,6 +20,11 @@ The goal of this repository is to build a strong foundation in Deep Learning by 
 
 ---
 
+
+### Backpropagation
+- Implemented backpropagation from scratch using a simple regression example.
+- Explained the complete learning pipeline: forward propagation → loss calculation → gradient computation → parameter updates.
+
 # 📂 Projects
 
 ## 1. Customer Churn Prediction using ANN
