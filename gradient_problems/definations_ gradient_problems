@@ -1,0 +1,12 @@
+## Vanishing Gradient
+
+The vanishing gradient problem happens when gradients become extremely small during backpropagation. As they move backward through many layers, the updates to the early layers become almost zero.
+
+Result: The network learns very slowly (or stops learning) in the earlier layers, making it difficult to train deep neural networks.
+
+
+## Exploding Gradient
+
+The exploding gradient problem happens when gradients become extremely large during backpropagation. This causes very large weight updates, making the model unstable.
+
+Result: The loss may fluctuate wildly, become very large, or even turn into NaN, preventing the network from learning properly.
