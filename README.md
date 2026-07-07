@@ -99,12 +99,10 @@ Predict the probability of admission based on student profile information.
 
 
 ## In Progress
-Understanding the intuition behind forward and backward propagation
-Learning parameter initialization (weights & biases)
-Exploring linear forward computation (Z = WᵀA + b)
-Understanding matrix dimensions and parameter shapes
-Studying the chain rule and gradient flow
-Building backpropagation from scratch (implementation in progress)
+Understing the ANN in depth
+Learning the memorization and scailing 
+exploring the Dropout
+building 
 
 ## Note: The complete implementation and detailed notebook will be added after development and testing are finished.
 
