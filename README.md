@@ -84,11 +84,11 @@ Predict the probability of admission based on student profile information.
 - [x] Feature Scaling
 - [x] Binary Classification with ANN
 - [x] Regression with ANN
-- [ ] Backpropagation
-- [ ] Gradient Descent
+- [x] Backpropagation
+- [x] Gradient Descent
 - [ ] Optimizers
 - [ ] Activation Functions
-- [ ] Dropout
+- [x] Dropout
 - [ ] Batch Normalization
 - [ ] Hyperparameter Tuning
 - [ ] CNN
@@ -102,7 +102,8 @@ Predict the probability of admission based on student profile information.
 Understing the ANN in depth
 Learning the memorization and scailing 
 exploring the Dropout
-building 
+building  ANN and learning all the important concepts 
+exploring  activations and gradient descents 
 
 ## Note: The complete implementation and detailed notebook will be added after development and testing are finished.
 
