@@ -59,6 +59,7 @@ Predict the probability of admission based on student profile information.
 - ANN model creation
 - Training and validation
 - Performance evaluation
+- Understanding Dropout
 
 ### Target Variable
 `Chance of Admit`
@@ -86,9 +87,9 @@ Predict the probability of admission based on student profile information.
 - [x] Regression with ANN
 - [x] Backpropagation
 - [x] Gradient Descent
+- [x] Dropout
 - [ ] Optimizers
 - [ ] Activation Functions
-- [x] Dropout
 - [ ] Batch Normalization
 - [ ] Hyperparameter Tuning
 - [ ] CNN
